@@ -1,7 +1,7 @@
 Summary: Split a multi-routine Fortran file into individual files
 Name: fsplit
 Version: 5.5
-Release: %mkrel 3
+Release: %mkrel 4
 License: BSD
 Group: Development/Other
 Source0: fsplit.tar.bz2
