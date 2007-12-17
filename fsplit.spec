@@ -5,7 +5,6 @@ Release: %mkrel 4
 License: BSD
 Group: Development/Other
 Source0: fsplit.tar.bz2
-BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
 Fsplit takes as input either a file or standard input containing Fortran source
