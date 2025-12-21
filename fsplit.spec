@@ -7,6 +7,7 @@ Group: Development/Other
 Source0: fsplit.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
+BuildRequires:	make
 %description
 Fsplit takes as input either a file or standard input containing Fortran source
 code.  It attempts to split the input into separate routine files of the form
